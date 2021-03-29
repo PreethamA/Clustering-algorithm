@@ -32,7 +32,7 @@ def gamma_value(u, d, m):
     u:float
     membership value of fcm
     d:float
-    equlidiean distance between data and prototype
+    equlidiean distance between data and prototypes
     m:float
     fuzzifer value
     
